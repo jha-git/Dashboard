@@ -1,0 +1,57 @@
+.settings{
+    margin:4rem auto;
+    height:50rem;
+    width: 65vw;
+    padding-top: 5rem;
+    box-shadow: 0 1rem 2rem rgba(#000000,.1);
+    background-color:#fdfcfa;
+    display: flex;
+    flex-direction: column;
+    grid-row: 2/3;
+    grid-column: 2/3;
+ 
+
+
+    h2{
+        text-align: center;
+        font-family: 'Kaushan Script', cursive;
+        color:#d01339;
+        margin-bottom: 3rem;
+    }
+    &__fields{
+        display: flex;
+        justify-content: space-between;
+        margin:1rem 10rem
+    }
+    input{
+        color:grey;
+        background-color: #FDFCFA;
+        padding: 1.5rem;
+        border-radius: 4rem;
+        width: 50%;
+        border:none;
+        box-shadow: 0 0.5rem 1rem rgba(#000000, .1);
+        font-family: inherit;
+    }
+
+     &__button{
+        background-color: #d01339;
+        color: white;
+        padding: 1rem 0rem;
+        border: none;
+        border-radius: 4rem;
+        font-size: 1.6rem;
+        box-shadow: 0 1rem 1.5rem rgba(#000000,.1);
+        cursor: pointer;
+        transition: all .2s;
+        outline: none;
+        width: 10rem;
+        font-family: inherit;
+        &-box{
+            display: flex;
+            justify-content: space-evenly;
+            margin-left: 35rem;
+            margin-top: 4rem;
+        }
+     }
+}

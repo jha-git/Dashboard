@@ -1,0 +1,34 @@
+textarea{
+    color:grey;
+    background-color: #FDFCFA;
+    padding: 1.5rem;
+    border-radius: 4rem;
+    width: 50%;
+    border:none;
+    box-shadow: 0 0.5rem 1rem rgba(#000000, .1);
+    font-family: inherit;
+}
+
+select{
+    background-color: #d01339;
+    color: white;
+   border: none;
+   border-radius: .5rem;
+   font: inherit;
+   padding: .5rem;
+   width: 15rem;
+  
+
+}
+.option:hover{
+    background-color: #d01339;
+    color: white;
+    font: inherit;
+}
+
+select > option{
+    background-color: #d01339;
+    color: white;
+    font: inherit;
+}
+
