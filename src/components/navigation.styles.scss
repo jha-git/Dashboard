@@ -38,10 +38,6 @@
     border-bottom: 1px solid white;
 }
 
-.accordion__button:hover {
-
-}
-
 .accordion__button:before {
     display: inline-block;
     content: '';
@@ -66,10 +62,6 @@
     background-color:#fdfcfa;
   
 }
-
-/* -------------------------------------------------- */
-/* ---------------- Animation part ------------------ */
-/* -------------------------------------------------- */
 
 @keyframes fadein {
     0% {
