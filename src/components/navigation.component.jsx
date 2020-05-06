@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 import './navigation.styles.scss';
 import {
     Accordion,
@@ -8,8 +9,7 @@ import {
     AccordionItemPanel,
 } from 'react-accessible-accordion';
  
-// Demo styles, see 'Styles' section below for some notes on use.
-// import 'react-accessible-accordion/dist/fancy-example.css';
+
  const params ={
     "allowMultipleExpanded" : false
  }
@@ -26,14 +26,14 @@ const Navigation = () =>{
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                    <div>
+                    <Link to='/'>
                        <p>Settings</p>
-                    </div>
+                    </Link>
                 </AccordionItemPanel>
                 <AccordionItemPanel>
-                    <div>
+                    <Link to='notifications'>
                        <p>Notifications</p>
-                    </div>
+                    </Link>
                 </AccordionItemPanel>
             </AccordionItem>
             <AccordionItem>
@@ -43,9 +43,9 @@ const Navigation = () =>{
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                    <div>
+                    <Link to='/task1'>
                        <p>Task 1</p>
-                    </div>
+                    </Link>
                 </AccordionItemPanel>
                 <AccordionItemPanel>
                     <div>
