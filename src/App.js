@@ -19,7 +19,7 @@ function App() {
       <Navigation/>
       <Switch>
 
-        <Route exact path='/' component={Settings}/>
+        <Route  path='/' component={Settings}/>
         <Route  path='/notifications' component={Notification}/>
         <Route  path='/task1' component={Task1}/>
       
