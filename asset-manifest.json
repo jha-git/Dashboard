@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Jupiter-Assignment/static/css/main.9ac9712c.chunk.css",
-    "main.js": "/Jupiter-Assignment/static/js/main.2058ddd5.chunk.js",
-    "main.js.map": "/Jupiter-Assignment/static/js/main.2058ddd5.chunk.js.map",
-    "runtime-main.js": "/Jupiter-Assignment/static/js/runtime-main.729640c6.js",
-    "runtime-main.js.map": "/Jupiter-Assignment/static/js/runtime-main.729640c6.js.map",
-    "static/js/2.787aaf6f.chunk.js": "/Jupiter-Assignment/static/js/2.787aaf6f.chunk.js",
-    "static/js/2.787aaf6f.chunk.js.map": "/Jupiter-Assignment/static/js/2.787aaf6f.chunk.js.map",
-    "index.html": "/Jupiter-Assignment/index.html",
-    "precache-manifest.b23bd18c3090edafbaeb4575e62912df.js": "/Jupiter-Assignment/precache-manifest.b23bd18c3090edafbaeb4575e62912df.js",
-    "service-worker.js": "/Jupiter-Assignment/service-worker.js",
-    "static/css/main.9ac9712c.chunk.css.map": "/Jupiter-Assignment/static/css/main.9ac9712c.chunk.css.map",
-    "static/js/2.787aaf6f.chunk.js.LICENSE.txt": "/Jupiter-Assignment/static/js/2.787aaf6f.chunk.js.LICENSE.txt",
-    "static/media/user-1.jpg": "/Jupiter-Assignment/static/media/user-1.516a08d9.jpg"
+    "main.css": "/Dashboard/static/css/main.ba8ffe47.chunk.css",
+    "main.js": "/Dashboard/static/js/main.95ad1b5a.chunk.js",
+    "main.js.map": "/Dashboard/static/js/main.95ad1b5a.chunk.js.map",
+    "runtime-main.js": "/Dashboard/static/js/runtime-main.b1cf1eed.js",
+    "runtime-main.js.map": "/Dashboard/static/js/runtime-main.b1cf1eed.js.map",
+    "static/js/2.e49c9df2.chunk.js": "/Dashboard/static/js/2.e49c9df2.chunk.js",
+    "static/js/2.e49c9df2.chunk.js.map": "/Dashboard/static/js/2.e49c9df2.chunk.js.map",
+    "index.html": "/Dashboard/index.html",
+    "precache-manifest.45f939d8ac6464473ac96656dcb82382.js": "/Dashboard/precache-manifest.45f939d8ac6464473ac96656dcb82382.js",
+    "service-worker.js": "/Dashboard/service-worker.js",
+    "static/css/main.ba8ffe47.chunk.css.map": "/Dashboard/static/css/main.ba8ffe47.chunk.css.map",
+    "static/js/2.e49c9df2.chunk.js.LICENSE.txt": "/Dashboard/static/js/2.e49c9df2.chunk.js.LICENSE.txt",
+    "static/media/user-1.jpg": "/Dashboard/static/media/user-1.516a08d9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.729640c6.js",
-    "static/js/2.787aaf6f.chunk.js",
-    "static/css/main.9ac9712c.chunk.css",
-    "static/js/main.2058ddd5.chunk.js"
+    "static/js/runtime-main.b1cf1eed.js",
+    "static/js/2.e49c9df2.chunk.js",
+    "static/css/main.ba8ffe47.chunk.css",
+    "static/js/main.95ad1b5a.chunk.js"
   ]
 }
